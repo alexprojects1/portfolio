@@ -1,13 +1,12 @@
 # Highlighted Projects:
 
-+ ***Kubernetes cluster on AWS infrastructure with a containerized react application deployed from Terraform***, monitored with host health monitoring:
-
-  https://github.com/alexprojects1/portfolio/tree/main/kubernetes_react_app
-
 + Create/Provision an Apache Website through ***Terraform, AWS and Ansible***
 
   https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deployment_AWS_Website
 
++ ***Kubernetes cluster on AWS infrastructure with a containerized react application deployed from Terraform***, monitored with host health monitoring:
+
+  https://github.com/alexprojects1/portfolio/tree/main/kubernetes_react_app
 
 + ***Python3 web scraping application*** to parse Yelp client information and store website review data while integrating the data through Ansible onto the AWS cloud platform: 
 
