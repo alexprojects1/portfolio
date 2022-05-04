@@ -28,9 +28,13 @@
 # Other Projects:
 
 
-+ ***Google Cloud Platform,  Python API*** - Create bucket, upload to bucket, download from bucket
++ ***Python API - Google Cloud Platform*** - Create bucket, upload to bucket, download from bucket
 
   https://github.com/alexprojects1/portfolio/tree/main/GCP_Python_API
+  
++ ***Python3 file globbing*** and searching logs:
+
+  https://github.com/alexprojects1/portfolio/blob/main/python_search_logs.py
 
 + ***Prometheus & Grafana Monitoring*** created from a local Ansible host with ***infrastructure as code (Terraform)*** to deploy Prometheus, Grafana to monitor a remote AWS EC2 host accessible through a virtual private cloud: (VPC) 
   
@@ -45,8 +49,6 @@
   https://github.com/alexprojects1/portfolio/blob/main/bash_cron_ansible_server_clear_cache.sh
 
 
-+ ***Python3 file globbing*** and searching logs:
 
-  https://github.com/alexprojects1/portfolio/blob/main/python_search_logs.py
 
 
