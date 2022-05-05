@@ -13,7 +13,7 @@ for page in pages:
     source= requests.get('https://www.yelp.com/biz/bar-karaoke-lounge-toronto?start={}'.format(page))  #format page will iterate over the list
     print(source)
     soup = BeautifulSoup(source.text, 'html.parser')
-    # print(soup)
+    ## print(soup)
     reviews=soup.find(class_="css-79elbk border-color--default__373c0__2oFDT")
     # print(reviews)
     # my_review=reviews.find_all('li',class_="margin-b5__373c0__2ErL8 border-color--default__373c0__2oFDT")
