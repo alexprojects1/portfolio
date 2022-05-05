@@ -1,7 +1,7 @@
 # Create/Provision an Apache Website through Terraform and Ansible
 
 + Configure AWS Keys
-+ Terraform Code:
++ Terraform Code hosted locally:
     + Terraform main.tf: connected to compute and vpc definitions 
     + Terraform Virtual (vpc): 
         + Defined region us-east1
