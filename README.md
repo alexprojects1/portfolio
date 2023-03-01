@@ -5,9 +5,9 @@
 
 https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deployment_AWS_Website
 
-+ ***AWS Security Labs***, monitored with host health monitoring:
++ ***AWS Security Labs*** - Constantly adding more weekly
 
-  https://github.com/alexprojects1/portfolio/tree/main/AWS_Security
+https://github.com/alexprojects1/portfolio/tree/main/AWS_Security
 
 
 
