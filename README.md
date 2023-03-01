@@ -5,6 +5,12 @@
 
 https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deployment_AWS_Website
 
+
++ ***AWS Security Terraform*** 
+
+https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Terraform
+
+
 + ***AWS Security Labs*** - Constantly adding more weekly
 
 https://github.com/alexprojects1/portfolio/tree/main/AWS_Security
