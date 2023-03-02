@@ -19,7 +19,7 @@ https://github.com/alexprojects1/portfolio/tree/main/AWS_Security
 
 # Other Projects:
 
-+ ***Python API - Google Cloud Platform (GCP)*** - Create bucket, upload to bucket, download from bucket
++ ***Python3 API - Google Cloud Platform (GCP)*** - Create bucket, upload to bucket, download from bucket
 
 https://github.com/alexprojects1/portfolio/tree/main/GCP_Python_API
   
