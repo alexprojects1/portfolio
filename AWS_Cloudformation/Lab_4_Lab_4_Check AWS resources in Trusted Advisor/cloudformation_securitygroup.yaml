@@ -1,0 +1,32 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: CloudFormation template for security group 
+
+Parameters:
+  VpcId:
+    Type: String
+    Description: VpcId
+    Default: vpc-0e396a82aad5ce908
+Resources:
+  DemoSG:
+    Type: AWS::EC2::SecurityGroup
+    Properties: 
+      GroupDescription: A Security Group for Demo-EC2
+      VpcId: !Ref VpcId
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
+      SecurityGroupEgress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
+
+Outputs:
+  SecurityGroupId:
+    Description: Security Group Id
+    Value: !GetAtt DemoSG.GroupId
+  VpcId:
+    Description: VpcId in Which SG is there
+    Value: !GetAtt DemoSG.GroupId
