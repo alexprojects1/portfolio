@@ -1,4 +1,4 @@
-# 
+# AWS resources in Trusted Advisor
 
 
 ## Objective:
