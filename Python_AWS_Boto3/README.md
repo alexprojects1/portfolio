@@ -1,6 +1,12 @@
 # Boto3 Documentation
 
- 
+## boto3_Security_Groups_Audit_and_Remove.py :
++ Parse EC2 information with describe_instances boto3 module for multiple instances
+https://github.com/alexprojects1/portfolio/blob/main/Python_Boto3/boto3_EC2_Instance_Information_2.py
+
+<a href="https://drive.google.com/uc?export=view&id=1zzSXvA5qADrS59HhRHuwQkPGBQsZm9D_"><img src="https://drive.google.com/uc?export=view&id=1zzSXvA5qADrS59HhRHuwQkPGBQsZm9D_/" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
 ## boto3_EC2_Instance_Information_2.py :
 + Parse EC2 information with describe_instances boto3 module for multiple instances
 https://github.com/alexprojects1/portfolio/blob/main/Python_Boto3/boto3_EC2_Instance_Information_2.py
