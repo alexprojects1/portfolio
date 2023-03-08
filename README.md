@@ -1,5 +1,6 @@
 # Highlighted Projects:
 
+# Terraform:
 
 + Create/Provision an Apache Website through ***Terraform, AWS and Ansible***
 
@@ -11,12 +12,14 @@ https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deplo
 https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Terraform
 
 
-# Python:
+# Python3:
 
- ## boto3_Security_Groups_Audit_and_Remove.py :
++ ***Python3 boto3 information and remoediation script*** to display AWS Service Group information and remove based on user input.
 
 https://github.com/alexprojects1/portfolio/blob/main/Python_AWS_Boto3/boto3_Security_Groups_Audit_and_Remove.py
 
+
+# Cloud Security (AWS / Azure):
 
 + ***AWS Security Hands-On*** - Constantly adding more weekly
 
