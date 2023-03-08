@@ -11,13 +11,33 @@ https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deplo
 https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Terraform
 
 
-+ ***AWS Security Labs*** - Constantly adding more weekly
+# Python:
 
-https://github.com/alexprojects1/portfolio/tree/main/AWS_Security
+ ## boto3_Security_Groups_Audit_and_Remove.py :
 
+https://github.com/alexprojects1/portfolio/blob/main/Python_AWS_Boto3/boto3_Security_Groups_Audit_and_Remove.py
+
+
++ ***AWS Security Hands-On*** - Constantly adding more weekly
+
+https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Hands_On
+
+
++ ***Azure Security Hands-On*** - Constantly adding more weekly
+
+https://github.com/alexprojects1/portfolio/tree/main/Azure_Security_Hands_On/Azure_Sentinel
+
++ ***Azure Offensive Hands-On*** - Constantly adding more weekly
+
+https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive(EDITING)
 
 
 # Other Projects:
+
++ ***Python3 file globbing*** and searching logs:
+
+https://github.com/alexprojects1/portfolio/tree/main/Python_Linux_Log_Search
+
 
 + ***Python3 API - Google Cloud Platform (GCP)*** - Create bucket, upload to bucket, download from bucket
 
@@ -28,19 +48,7 @@ https://github.com/alexprojects1/portfolio/tree/main/GCP_Python_API
 https://github.com/alexprojects1/portfolio/blob/main/Python_Webscraper/webscraper.py
 
 
-+ ***Python3 file globbing*** and searching logs:
 
-https://github.com/alexprojects1/portfolio/tree/main/Python_Linux_Log_Search
-
-
-
-
-### Placeholder EDITING BELOW  ###
-
-+ ***Prometheus & Grafana Monitoring*** created from a local Ansible host with ***infrastructure as code (Terraform)*** to deploy Prometheus, Grafana to monitor a remote AWS EC2 host accessible through a virtual private cloud: (VPC) 
-
-    
-+ Bash solution to run an ansible module command via cron to clear vm cache and create and clear log ***Bash, Ansible, Cron***:
 
 
 
