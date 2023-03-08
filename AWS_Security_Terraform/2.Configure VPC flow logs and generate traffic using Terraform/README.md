@@ -145,20 +145,5 @@ resource "aws_instance" "instance" {
     }
     depends_on = [aws_security_group.ec2sg]
 }			
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-portfolio/main.tf at main · alexprojects1/portfolio
 
 ```
