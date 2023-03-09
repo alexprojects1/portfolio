@@ -37,6 +37,9 @@ https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive(EDITING)
 
 # Other Projects:
 
++ ***AWS Cloudformation*** and searching logs:
+https://github.com/alexprojects1/portfolio/tree/main/AWS_Cloudformation
+
 + ***Python3 file globbing*** and searching logs:
 
 https://github.com/alexprojects1/portfolio/tree/main/Python_Linux_Log_Search
