@@ -124,3 +124,16 @@ class Test {
   }
 }
 ```
+
+
++ 7. Exception handling is the same as Java, using try, catch to catch exceptions in Groovy
+
+```
+Try{
+.....
+}catch(Exception1 exp){
+.....
+}finally{
+......
+}
+```
