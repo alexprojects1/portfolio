@@ -32,7 +32,7 @@ https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Hands_On
 
 + ***Azure Offensive Hands-On*** 
 
-https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive(EDITING)
+https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive
 
 
 
