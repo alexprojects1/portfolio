@@ -12,6 +12,10 @@ https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Terraform
 https://github.com/alexprojects1/portfolio/tree/main/Terraform_and_Ansible_Deployment_AWS_Website
 
 
++ ***Terraform - Jenkins/Groovy*** - In progress
+
+https://github.com/alexprojects1/portfolio/tree/main/Terraform_Jenkins_Pipeline_Groovy
+
 # Python3:
 
 + ***Python3 boto3 information and remediation script*** to display AWS Service Group information and remove based on user input.
@@ -31,9 +35,7 @@ https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Hands_On
 https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive(EDITING)
 
 
-+ ***Terraform - Jenkins/Groovy*** - In progress
 
-https://github.com/alexprojects1/portfolio/tree/main/Terraform_Jenkins_Pipeline_Groovy
 
 
 
