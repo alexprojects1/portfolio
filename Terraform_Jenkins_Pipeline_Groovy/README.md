@@ -4,6 +4,10 @@
 + Work with Jenkins and Groovy
 + Terraform code creates EC2, installs Jenkins to start an environment for Groovy
 
+<a href="https://drive.google.com/uc?export=view&id=1-I7e-OOK3qsc_3PawARHhYm7v6gTks7W"><img src="https://drive.google.com/uc?export=view&id=1-I7e-OOK3qsc_3PawARHhYm7v6gTks7W/" style="width: 200px; max-width: 50%; height: auto" title="Click for the larger version." /></a>
+
+
+
 # Terraform Jenkins EC2 Installation
 
 ```

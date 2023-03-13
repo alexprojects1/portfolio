@@ -26,13 +26,15 @@ https://github.com/alexprojects1/portfolio/blob/main/Python_AWS_Boto3/boto3_Secu
 https://github.com/alexprojects1/portfolio/tree/main/AWS_Security_Hands_On
 
 
-+ ***Azure Security Hands-On*** - Constantly adding more weekly
-
-https://github.com/alexprojects1/portfolio/tree/main/Azure_Security_Hands_On/Azure_Sentinel
-
-+ ***Azure Offensive Hands-On*** - Constantly adding more weekly
++ ***Azure Offensive Hands-On*** 
 
 https://github.com/alexprojects1/portfolio/tree/main/Azure_Offensive(EDITING)
+
+
++ ***Terraform - Jenkins/Groovy*** - In progress
+
+https://github.com/alexprojects1/portfolio/tree/main/Terraform_Jenkins_Pipeline_Groovy
+
 
 
 # Other Projects:
